@@ -10,7 +10,7 @@ export const Portfolio = () => {
           <h1 className="portfolio-header">Portfolio</h1>
         <div className="projects">
           <div className="wow-div">
-              <img className="wow-pr" src={ school } alt="child in image"/>
+              <img className="wow-pr" src={ school } alt="child"/>
                 <div className= "view-proj">
                   <a href="https://school-in-the-cloud-backend.herokuapp.com/" target="_blank" rel="noopener noreferrer">View</a>
                   <a href="https://github.com/Build-Week-School-in-the-Cloud-Track/back-end" target="_blank" rel="noopener noreferrer">Github</a>
